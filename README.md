@@ -1,3 +1,6 @@
+# Modification
+Added 4 dimension support to be allowed to handle Z- and M- values from geometries. Even tho GoeJSON has no official support for M-values at the moment, they will have to add it eventually to keep up with the market.
+
 # GeoJSON
 
 GeoJSON IO module for NTS. 
