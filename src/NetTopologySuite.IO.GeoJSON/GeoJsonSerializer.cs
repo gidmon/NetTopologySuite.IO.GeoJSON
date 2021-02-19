@@ -169,7 +169,7 @@ namespace NetTopologySuite.IO
         /// The factory to use when creating a new geometry
         /// </param>
         /// <param name="dimension">
-        /// A number of dimensions that are handled.  Must be 2 or 3.
+        /// A number of dimensions that are handled.  Must be between 2 and 4.
         /// </param>
         /// <param name="allowMeasurements">
         /// If the coordiantes should allow measurement values
